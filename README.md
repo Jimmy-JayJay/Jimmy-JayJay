@@ -13,7 +13,7 @@
 - Advanced GIS and Remote Sensing Techniques  
 
 ## 🔧 Tools & Technologies
-**Languages:** Python and R
+**Languages:** Python and R  
 **GIS Tools:** QGIS, ArcGIS, Google Earth Engine  
 **Data Tools:** Pandas, NumPy, Matplotlib, Jupyter Notebook  
 **Others:** Git, Power BI, Excel  
