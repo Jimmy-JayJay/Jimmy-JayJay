@@ -2,7 +2,7 @@
 
 > 🌍 **Climate Science | Data Science | GIS Enthusiast | Innovation for Sustainability**
 
-🎓 I’m a **Meteorology and Climate Science graduate** from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/)passionate about harnessing data for environmental insights and sustainable development.  
+🎓 I’m a **Meteorology and Climate Science graduate** from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/) passionate about harnessing data for environmental insights and sustainable development.  
 
 🌦️ My interests lie at the intersection of **climate science**, **data analytics**, and **geospatial technology**, where I explore how data-driven tools can inform adaptation and policy.  
 
