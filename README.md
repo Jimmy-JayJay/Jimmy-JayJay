@@ -1,4 +1,4 @@
-# Hi there, I’m Jimmy Edward Jr Matewere (Jay Jay) 👋
+# Hi there, I’m Jimmy Edward Matewere (Jay Jay) 👋
 
 🌍 **Climate Science | Data Science | GIS and Remote Sensing Enthusiast | Innovation for Sustainability**
 
