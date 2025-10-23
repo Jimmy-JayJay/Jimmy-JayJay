@@ -1,8 +1,8 @@
 # Hi there, I’m Jimmy Edward Jr Matewere (Jay Jay) 👋
 
-🌍 **Climate Science | Data Science | GIS Enthusiast | Innovation for Sustainability**
+🌍 **Climate Science | Data Science | GIS and Remote Sensing Enthusiast | Innovation for Sustainability**
 
-🎓 I’m a Meteorology and Climate Science graduate from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/) passionate about harnessing data to understand environmental patterns and support climate adaptation and sustainable development.
+🎓 I’m a Meteorology and Climate Science graduate from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/) passionate about harnessing data to understand enviromental patterns and support climate adaptation & mitigation, and sustainable development.
 
 ---
 
