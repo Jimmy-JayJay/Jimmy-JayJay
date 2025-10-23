@@ -28,7 +28,7 @@
 
 ## 📫 Get in Touch
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jimmy-matewere-59a116367)
-- ✉️ [Email](mailto:jimmyedwardjnr@gmail.com)
+- ✉️ [Email](mailto:jmatewere265@gmail.com)
 - ✉️ [Secondary Email](mailto:jimmymatewere@gmail.com) 
 
 
