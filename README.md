@@ -1,4 +1,4 @@
-# Hi there, I’m Jimmy Edward Jnr Matewere (Jay Jay) 👋
+# Hi there, I’m Jimmy Edward Jr Matewere (Jay Jay) 👋
 
 🌍 **Climate Science | Data Science | GIS Enthusiast | Innovation for Sustainability**
 
@@ -25,7 +25,7 @@ I am passionate about the intersection of climate science, data analytics, and g
 - Data Science and Machine Learning for Environmental Applications  
 - Climate Modelling in Python and R
 - Advanced GIS and Remote Sensing Techniques
-- Scinece and Policy Integration 
+- Science and Policy Integration 
 
 ---
 
