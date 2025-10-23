@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am passionate about the intersection of climate science, data analytics, and geospatial technology. I use data-driven tools like Python, R, and GIS software to analyze and visualize climate and environmental data that can inform policy and adaptation strategies. Currently, I am learning data science and analytics to deepen my ability to work with environmental and climate data. I am also interested in the applications of machine learning and artificial inteligence in climate science studies.
+#### I am passionate about the intersection of climate science, data analytics, and geospatial technology. I use data-driven tools like Python, R, and GIS software to analyze and visualize climate and environmental data that can inform policy and adaptation strategies. Currently, I am learning data science and analytics to deepen my ability to work with environmental and climate data. I am also interested in the applications of machine learning and artificial inteligence in climate science studies.
 ---
 
 ## Skills & Tools
