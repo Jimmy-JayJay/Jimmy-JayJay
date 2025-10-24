@@ -1,58 +1,31 @@
-# Hi there, I’m Jimmy Edward Matewere (Jay Jay) 👋
+# Hi there, I'm Jimmy Edward Matewere (Jay Jay) 👋
 
-🌍 **Climate Science | Data Science | GIS and Remote Sensing Enthusiast | Innovation for Sustainability**
+🌍 **Data Science | Climate Science | GIS and Remote Sensing**
 
-🎓 I’m a Meteorology and Climate Science graduate from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/) passionate about harnessing data to understand enviromental patterns and support climate adaptation & mitigation, and sustainable development.
-
----
+🎓 Meteorology and Climate Science graduate from [Malawi University of Science and Technology (MUST)](https://www.must.ac.mw/) with a growing passion for data science and machine learning.
 
 ## About Me
-
-#### I am passionate about the intersection of climate science, data analytics, and geospatial technology. I use data-driven tools like Python, R, and GIS software (QGIS)  to analyze and visualize climate and environmental data that has the potential to inform policy and adaptation strategies. Currently, I am advancing my skills in data science and analytics to deepen my ability to work with environmental and climate data. I am also keenly interested in applying machine learning and artificial intelligence in climate science studies to develop innovative, tech-driven solutions for climate adaptation and sustainability.
----
+I'm developing my expertise in data science and analytics, with particular interest in environmental applications. My background in climate science drives my curiosity to explore how data-driven solutions can address real-world challenges. I use Python and various data analysis tools to extract meaningful insights from different types of data.
 
 ## Skills & Tools
+- **Programming:** Python, 
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **GIS Tools:** QGIS, Google Earth Engine
+- **Others:** Power BI, Excel
 
-- **Languages:** Python, R  
-- **GIS & Remote Sensing:** QGIS, ArcGIS, Google Earth Engine, Drone Technology  
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook  
-- **Others:** Git, Power BI, Excel, MS Office Suite
-
----
-
-## Current Learning Focus
-
-- Data Science and Machine Learning for Environmental Applications  
-- Climate Modelling in Python and R
-- Advanced GIS and Remote Sensing Techniques
-- Science and Policy Integration 
-
----
-
-## Interests
-
-- Climate Finance and Adaptation  
-- Climate Data Science and Modelling  
-- Environmental Data Analytics  
-- Geospatial Analytics  
-- Open Data and Sustainability Innovation  
-
----
+## Current Focus
+- Building strong foundations in Data Science and Machine Learning
+- Data Analysis and Visualization
+- GIS and Remote Sensing Applications
+- Project Management and Technical Writing
 
 ## Projects
-
-- **CompoTech** — Leading development of a low-cost, climate-resilient composting technology to improve local adaptation, supported by UNICEF funding through the ADDA Climate Incubator.  
-- **Climate Adaptation Finance Evaluation** — Analyzed the distribution and accessibility of climate finance in Malawi for my final year research.  
-- **Climate Change Modelling** — Developed land degradation modeling and climate-informed environmental policy drafts.  
-- **Community Climate Impact Assessment** — Conducted field research post-Cyclone Freddy to help design community resilience strategies.
-
----
+- **CompoTech** — Leading a UNICEF-funded technology development project through the ADDA Climate Incubator Program
+- **Data Analysis Projects** — Working on various data visualization and analysis projects using Python and R
+- **GIS Applications** — Exploring geospatial data analysis and mapping solutions
 
 ## Get in Touch
+- LinkedIn: [jimmy-matewere-59a116367](https://www.linkedin.com/in/jimmy-matewere-59a116367)
+- Email: jmatewere265@gmail.com
 
-- LinkedIn: [linkedin.com/in/jimmy-matewere-59a116367](https://www.linkedin.com/in/jimmy-matewere-59a116367)  
-- Email: jmatewere265@gmail.com | Secondary: jimmymatewere@gmail.com
-
----
-
-⭐ "Turning climate data into insight, and insight into action."
+⭐ "Transforming data into actionable insights"
