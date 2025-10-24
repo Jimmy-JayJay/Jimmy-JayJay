@@ -28,4 +28,4 @@ I'm developing my expertise in data science and analytics, with particular inter
 - LinkedIn: [jimmy-matewere-59a116367](https://www.linkedin.com/in/jimmy-matewere-59a116367)
 - Email: jmatewere265@gmail.com
 
-⭐ "Transforming data into actionable insights"
+⭐ "*Transforming data into actionable insights*"
