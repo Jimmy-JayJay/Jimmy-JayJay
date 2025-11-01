@@ -1,4 +1,4 @@
-# Hi there, I'm Jimmy Edward Matewere (Jay Jay) 👋
+<h1 align="center">Hi there, I’m Jimmy Edward Matewere 👋</h1>
 
 🌍 **Data Science | Climate Science | GIS and Remote Sensing**
 
@@ -8,48 +8,36 @@
 I'm developing my expertise in data science and analytics, with particular interest in environmental applications. My background in climate science drives my curiosity to explore how data-driven solutions can address real-world challenges. I use Python and various data analysis tools to extract meaningful insights from different types of data.
 
 ## Skills & Tools
-- **Programming:** Python, 
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **GIS Tools:** QGIS, Google Earth Engine
+
+- **Programming:** Python, R, VS Code, GitHub  
+- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn  
+- **GIS Tools:** QGIS, ArcGIS 
 - **Others:** Power BI, Excel
-### 🧰 Tools & Software
 
-<style>
-.icon-container img {
-  transition: transform 0.2s ease-in-out;
-}
-.icon-container img:hover {
-  transform: scale(1.2);
-}
-</style>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-<p align="center" class="icon-container">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="45" height="45" title="Jupyter Notebook"/>
 
-  <!-- Programming & Scripting -->
-  <h4>💻 Programming & Scripting</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
 
-  <!-- Data Science & Machine Learning -->
-  <h4>📊 Data Analysis & Machine Learning</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50" title="Scikit-learn"/>
-
-  <!-- GIS & Remote Sensing -->
-  <h4>🛰️ GIS & Remote Sensing</h4>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/QGIS_logo_new.svg" alt="QGIS" width="50" height="50" title="QGIS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Google_Earth_Engine_logo.svg" alt="Google Earth Engine" width="50" height="50" title="Google Earth Engine"/>
-
+  <!-- Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45" title="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45" title="Scikit-learn"/>
+ <!-- GIS -->
+  <img src="https://vectorlogo.zone/logos/qgis/qgis-icon.svg" alt="QGIS" width="45" height="45" title="QGIS"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arcgis.svg" alt="ArcGIS" width="45" height="45" title="ArcGIS"/>
   <!-- Visualization & Productivity -->
-  <h4>📈 Visualization & Productivity</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50" title="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="50" height="50" title="Excel"/>
+  <img src="https://vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="45" height="45" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" alt="Excel" width="45" height="45" title="Excel"/>
 
 </p>
-
 
 ## Current Focus
 - Building strong foundations in Data Science and Machine Learning
