@@ -58,7 +58,7 @@
 </p>  
 -->
 ##  Get in Touch
-- **LinkedIn:** <a href="https://www.linkedin.com/in/jimmy-matewere/" target="_blank">linkedin.com/in/jimmy-matewere/</a>
-- **Email:** <a href="mailto:jmatewere265@gmail.com" target="_blank">jmatewere265@gmail.com</a>
-
+- **LinkedIn:** [linkedin.com/in/jimmy-matewere/](https://www.linkedin.com/in/jimmy-matewere/)
+- **Email:** [jmatewere265@gmail.com](mailto:jmatewere265@gmail.com)
+  
 ⭐ *"Transforming data into actionable insights"*  
