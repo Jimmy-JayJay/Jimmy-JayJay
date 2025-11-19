@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center"><strong>🛠️ Skills & Tools</strong></h2>
+<h2 align="center"><strong>🛠️ Skills Stack</strong></h2>
 <br>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/></a>
