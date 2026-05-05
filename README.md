@@ -5,8 +5,12 @@
 <h1 align="center">Jimmy Edward Matewere</h1>
 
 <p align="center">
-Climate-domain engineer. I go from raw sensor or satellite data to deployed decision-support tools, end to end.<br/>
-BSc Meteorology & Climate Science · MUST, 2025 · Blantyre, Malawi
+  <b>Climate Data Scientist &nbsp;·&nbsp; Geospatial Engineer &nbsp;·&nbsp; Founding CTO, Ascend Spatial Labs</b>
+</p>
+
+<p align="center">
+  BSc Meteorology & Climate Science, MUST 2025 &nbsp;·&nbsp; Blantyre, Malawi<br/>
+  Graduate Intern, DCCMS Engineering & Communication
 </p>
 
 <p align="center">
@@ -17,35 +21,31 @@ BSc Meteorology & Climate Science · MUST, 2025 · Blantyre, Malawi
 
 ---
 
-## What I Do
-
-I build tools at the intersection of climate science and software. My edge is domain depth — I understand what the data means well enough to not misrepresent it, and I can take it from raw file to deployed product without handing off either end.
-
-Currently a graduate intern at DCCMS (Engineering & Communication), working on meteorological data pipelines and infrastructure. Founding CTO at Ascend Spatial Labs.
+I work across the full stack — from raw climate and sensor data to deployed decision-support tools. Domain in meteorology and climate science. Currently at DCCMS Engineering & Communication, building data pipelines and meteorological tooling for operational use.
 
 ---
 
-## Selected Work
+## Projects
 
-**[Climate Risk Scoring Dashboard — Malawi](https://malawiclimaterisk.vercel.app)**  
-28-district national risk assessment. SPI + Coefficient of Variation, percentile-normalised. 50,000+ daily records (2020–2024). Choropleth with 3D terrain, radar charts. Policymakers identify high-risk districts in under 5 seconds on mobile.  
+**[Climate Risk Scoring Dashboard — Malawi](https://malawiclimaterisk.vercel.app)**
 `Python · Next.js · Mapbox GL JS · Streamlit · Plotly · IPCC AR5`
+National risk assessment across all 28 districts. SPI + Coefficient of Variation with percentile normalisation. 50,000+ daily records (2020–2024). Choropleth with 3D terrain and radar charts — high-risk districts identifiable in under 5 seconds on mobile. Presented internally to DCCMS.
 
-**[WasteWatch — Waste Management DSS](https://wastewatch-dashboard.vercel.app/)**  
-Geospatial decision-support system for Blantyre City Council. 333+ illegal dumpsites mapped. Custom 0–100 risk scoring engine. DBSCAN for skip placement optimisation. FastAPI backend on GCP Cloud Run.  
-`Python · FastAPI · Next.js · DBSCAN · GCP`
+**[WasteWatch — Waste Management DSS](https://wastewatch-dashboard.vercel.app/)**
+`Python · FastAPI · Next.js · DBSCAN · GCP Cloud Run`
+Geospatial decision-support system for Blantyre City Council. 333+ illegal dumpsites mapped. Custom 0–100 risk scoring engine across health, environmental, and volume factors. DBSCAN for skip placement optimisation. FastAPI backend on GCP Cloud Run.
 
-**Nimbus Forecast**  
-Internal meteorological forecast platform built for DCCMS. Four model sources (YR, ECMWF, GFS, ICON via Open-Meteo). 99 stations, async concurrent ingestion, mutex locking, automated cron. Now part of the Monday morning NMC workflow.  
+**Nimbus Forecast** *(internal)*
 `Next.js · TypeScript · PostgreSQL · Neon`
+Meteorological forecast platform built for DCCMS NMC. Four model sources: YR, ECMWF, GFS, ICON via Open-Meteo. 99 stations, async concurrent ingestion with mutex locking, automated cron. Part of the Monday morning NMC workflow since deployment.
 
-**[Ascend Spatial Labs Platform](https://ascendspatiallabs.vercel.app)**  
-Full company site and client portal for a geospatial intelligence startup. Clerk auth synced to Sanity, webhook retry logic, soft deletes, project visibility states.  
+**[Ascend Spatial Labs Platform](https://ascendspatiallabs.vercel.app)**
 `Next.js · Mapbox · Clerk · Sanity`
+Company site and client portal for a geospatial intelligence startup. Clerk auth synced to Sanity, webhook retry logic, soft deletes, project visibility states.
 
-**[Malawi Climate Finance Analysis](https://github.com/Jimmy-JayJay)** — BSc Thesis  
-MWK 16B+ analyzed across 48 CCA projects (2018–2023). 85% international grant dependency, 65% forestry concentration, 11 underserved districts identified. Presented to department committee.  
-`Python · QGIS · MAXQDA`
+**[Climate Finance in Malawi](https://github.com/Jimmy-JayJay)** — BSc Thesis
+`Python · Excel · QGIS · MAXQDA`
+MWK 16B+ analyzed across 48 CCA projects (2018–2023). Found 85% international grant dependency, 65% forestry concentration, 11 underserved districts. Presented to department committee.
 
 ---
 
@@ -69,7 +69,7 @@ MWK 16B+ analyzed across 48 CCA projects (2018–2023). 85% international grant 
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS"/>
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GEE"/>
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
-  <img src="https://img.shields.io/badge/HEC--RAS-grey?style=for-the-badge" alt="HEC-RAS"/>
+  <img src="https://img.shields.io/badge/HEC--RAS-555555?style=for-the-badge" alt="HEC-RAS"/>
 </p>
 
 **Web & Platform**
@@ -89,13 +89,11 @@ MWK 16B+ analyzed across 48 CCA projects (2018–2023). 85% international grant 
 
 ---
 
----
-
 ## Certifications
 
-DataCamp Certified Data Scientist, Data Analyst & Data Engineer — 2025 (Femanalytica Scholarship)  
+DataCamp Certified Data Scientist, Data Analyst & Data Engineer — 2025 · Femanalytica Scholarship  
 CDDT-2, African Drone and Data Academy — 2026 · ArcGIS, Pix4dmapper, HEC-RAS, BVLOS  
-CDDT-1, African Drone and Data Academy — 2025 · EASA A1/A3 Remote Pilot License  
+CDDT-1, African Drone and Data Academy — 2025 · EASA A1/A3 Remote Pilot License (EU airspace)
 
 ---
 
