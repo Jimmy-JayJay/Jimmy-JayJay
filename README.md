@@ -31,7 +31,7 @@ Currently a graduate intern at DCCMS (Engineering & Communication), working on m
 28-district national risk assessment. SPI + Coefficient of Variation, percentile-normalised. 50,000+ daily records (2020–2024). Choropleth with 3D terrain, radar charts. Policymakers identify high-risk districts in under 5 seconds on mobile.  
 `Python · Next.js · Mapbox GL JS · Streamlit · Plotly · IPCC AR5`
 
-**[WasteWatch — Waste Management DSS](https://github.com/Jimmy-JayJay)**  
+**[WasteWatch — Waste Management DSS](https://wastewatch-dashboard.vercel.app/)**  
 Geospatial decision-support system for Blantyre City Council. 333+ illegal dumpsites mapped. Custom 0–100 risk scoring engine. DBSCAN for skip placement optimisation. FastAPI backend on GCP Cloud Run.  
 `Python · FastAPI · Next.js · DBSCAN · GCP`
 
@@ -39,7 +39,7 @@ Geospatial decision-support system for Blantyre City Council. 333+ illegal dumps
 Internal meteorological forecast platform built for DCCMS. Four model sources (YR, ECMWF, GFS, ICON via Open-Meteo). 99 stations, async concurrent ingestion, mutex locking, automated cron. Now part of the Monday morning NMC workflow.  
 `Next.js · TypeScript · PostgreSQL · Neon`
 
-**[Ascend Spatial Labs Platform](https://ascendspatial.vercel.app)**  
+**[Ascend Spatial Labs Platform](https://ascendspatiallabs.vercel.app)**  
 Full company site and client portal for a geospatial intelligence startup. Clerk auth synced to Sanity, webhook retry logic, soft deletes, project visibility states.  
 `Next.js · Mapbox · Clerk · Sanity`
 
@@ -88,10 +88,6 @@ MWK 16B+ analyzed across 48 CCA projects (2018–2023). 85% international grant 
 </p>
 
 ---
-
-## Currently
-
-Building toward the flagship: district-level drought risk modelling under CMIP6 climate change scenarios. SPEI, extreme value theory, bias-corrected downscaling, SSP2-4.5 and SSP5-8.5. The project that earns the title in substance.
 
 ---
 
