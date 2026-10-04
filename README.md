@@ -80,11 +80,10 @@ A conceptual redesign of an internet provider's website: CMS-driven pricing plan
   <tr>
     <td><b>Data & Analysis</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,sklearn&theme=dark"/><img src="https://skillicons.dev/icons?i=py,sklearn&theme=light" height="36" alt="Python, scikit-learn"/></picture>
       <img src="https://img.shields.io/badge/pandas-161B22?style=flat-square&logo=pandas&logoColor=FFFFFF" alt="pandas"/>
       <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
       <img src="https://img.shields.io/badge/xarray-161B22?style=flat-square" alt="xarray"/>
-      <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
       <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
     </td>
     <td><sub>Forecast pipelines, verification, climate indices</sub></td>
@@ -105,11 +104,7 @@ A conceptual redesign of an internet provider's website: CMS-driven pricing plan
   <tr>
     <td><b>Web & Apps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,fastapi&theme=dark"/><img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,fastapi&theme=light" height="36" alt="Next.js, TypeScript, React, Tailwind CSS, FastAPI"/></picture>
       <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
     </td>
     <td><sub>Decision-support dashboards and client sites</sub></td>
@@ -117,8 +112,7 @@ A conceptual redesign of an internet provider's website: CMS-driven pricing plan
   <tr>
     <td><b>Data & Content</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase&theme=dark"/><img src="https://skillicons.dev/icons?i=postgres,supabase&theme=light" height="36" alt="PostgreSQL, Supabase"/></picture>
       <img src="https://img.shields.io/badge/Sanity-161B22?style=flat-square&logo=sanity&logoColor=F03E2F" alt="Sanity"/>
     </td>
     <td><sub>Operational data and CMS-managed content</sub></td>
@@ -126,10 +120,7 @@ A conceptual redesign of an internet provider's website: CMS-driven pricing plan
   <tr>
     <td><b>Cloud & Tooling</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Google%20Cloud-161B22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/>
-      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,docker,vercel,git&theme=dark"/><img src="https://skillicons.dev/icons?i=gcp,docker,vercel,git&theme=light" height="36" alt="Google Cloud, Docker, Vercel, Git"/></picture>
     </td>
     <td><sub>Deployment, containers, version control</sub></td>
   </tr>
