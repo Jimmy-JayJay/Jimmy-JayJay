@@ -64,7 +64,7 @@ Structure, allocation and governance of adaptation finance, 2018 to 2023, from t
 `Next.js · TypeScript · Tailwind CSS · Sanity · Resend · Framer Motion`
 Website for a Malawian marketing and creative agency, built pro bono and live since September 2026. Editorial, design-forward layout with a Sanity-managed blog and portfolio, smooth scrolling and contact email through Resend on the agency's own domain.
 
-**[Pathway Consultancy](https://pathway-consultancy.vercel.app/)**
+**Pathway Consultancy**
 `Next.js · TypeScript · Tailwind CSS · Framer Motion`
 Company website for Pathway Consultancy Ltd.
 
