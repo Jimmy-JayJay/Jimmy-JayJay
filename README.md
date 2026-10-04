@@ -58,6 +58,22 @@ Structure, allocation and governance of adaptation finance, 2018 to 2023, from t
 
 ---
 
+## Web & Client Work
+
+**[Phiri Media](https://www.phirimediagroup.org)**
+`Next.js · TypeScript · Tailwind CSS · Sanity · Resend · Framer Motion`
+Website for a Malawian marketing and creative agency, built pro bono and live since September 2026. Editorial, design-forward layout with a Sanity-managed blog and portfolio, smooth scrolling and contact email through Resend on the agency's own domain.
+
+**[Pathway Consultancy](https://pathway-consultancy.vercel.app/)**
+`Next.js · TypeScript · Tailwind CSS · Framer Motion`
+Company website for Pathway Consultancy Ltd.
+
+**Afrimax Malawi redesign** *(unofficial concept)*
+`Next.js · TypeScript · Tailwind CSS · Sanity · Mapbox GL JS`
+A conceptual redesign of an internet provider's website: CMS-driven pricing plans, an interactive coverage map and an accessible, responsive interface.
+
+---
+
 ## Stack
 
 <table>
