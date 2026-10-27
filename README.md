@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jimmy-matewere.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://matewere.dev">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/jimmy-matewere">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:jimmymatewere@gmail.com">jimmymatewere@gmail.com</a>
 </p>
@@ -40,11 +40,11 @@ Turns the DCCMS WRF 4 km forecast into an alert tier (No Action, Be Aware, Be Pr
 `Next.js · TypeScript · PostgreSQL · Neon`
 Operational forecast platform for the National Meteorological Centre. Daily forecasts from four global models (YR, ECMWF, GFS, ICON) plus DCCMS's COSMO regional model for 99 stations, with concurrent ingestion guarded by locks and scheduled runs. It replaced a manual routine of up to 99 browser tabs for the weekly rainfall bulletin, became part of the Monday morning NMC workflow, and led to a commission for an institutional platform.
 
-**[Climate Risk Scoring Dashboard, Malawi](https://malawiclimaterisk.vercel.app)**
+**[Climate Risk Scoring Dashboard, Malawi](https://risk.matewere.dev)**
 `Python · Next.js · Mapbox GL JS · IPCC AR5`
 District climate risk index for all 28 districts on the IPCC AR5 hazard, exposure and vulnerability framing. Hazard from NASA POWER daily data (2020 to 2024, about 50,000 district-day records): rainfall variability, SPI-based drought frequency, heavy rainfall and heat extremes. Choropleth with 3D terrain and radar profiles. Exposure and vulnerability layers are being upgraded from estimates to district survey data.
 
-**[WasteWatch, Waste Management Decision Support](https://wastewatch-dashboard.vercel.app/)**
+**[WasteWatch, Waste Management Decision Support](https://wastewatch.matewere.dev)**
 `Python · FastAPI · Next.js · DBSCAN · GCP Cloud Run`
 Decision support for Blantyre City Council, built by a six-person team (I led the dashboard and backend). 333 surveyed illegal dumpsites scored 0 to 100 across health, environmental and volume factors, and DBSCAN clustering to recommend skip locations. FastAPI backend on Cloud Run, Next.js frontend.
 
